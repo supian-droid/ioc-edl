@@ -1,0 +1,9 @@
+# === Malicious IPs ===
+103.114.140.198
+103.114.140.203
+103.114.140.0/24
+
+# === Malicious Domains ===
+defendercore.live
+cdn-update-node.xyz
+update-prtg-agent.com
